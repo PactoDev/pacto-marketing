@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.50bffd16.css",
-    "main.js": "/static/js/main.1ea7787f.js",
-    "static/js/787.23f88e47.chunk.js": "/static/js/787.23f88e47.chunk.js",
-    "static/media/plants.png": "/static/media/plants.46d96f4fd3557aa774ab.png",
-    "service-worker.js": "/service-worker.js",
-    "static/media/loader.svg": "/static/media/loader.ef114f6846ebe85416ed94219d390c58.svg",
-    "index.html": "/index.html",
-    "main.50bffd16.css.map": "/static/css/main.50bffd16.css.map",
-    "main.1ea7787f.js.map": "/static/js/main.1ea7787f.js.map",
-    "787.23f88e47.chunk.js.map": "/static/js/787.23f88e47.chunk.js.map"
+    "main.css": "/pacto-marketing/static/css/main.50bffd16.css",
+    "main.js": "/pacto-marketing/static/js/main.2ec0ba24.js",
+    "static/js/787.23f88e47.chunk.js": "/pacto-marketing/static/js/787.23f88e47.chunk.js",
+    "static/media/plants.png": "/pacto-marketing/static/media/plants.46d96f4fd3557aa774ab.png",
+    "service-worker.js": "/pacto-marketing/service-worker.js",
+    "static/media/loader.svg": "/pacto-marketing/static/media/loader.ef114f6846ebe85416ed94219d390c58.svg",
+    "index.html": "/pacto-marketing/index.html",
+    "main.50bffd16.css.map": "/pacto-marketing/static/css/main.50bffd16.css.map",
+    "main.2ec0ba24.js.map": "/pacto-marketing/static/js/main.2ec0ba24.js.map",
+    "787.23f88e47.chunk.js.map": "/pacto-marketing/static/js/787.23f88e47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50bffd16.css",
-    "static/js/main.1ea7787f.js"
+    "static/js/main.2ec0ba24.js"
   ]
 }
